@@ -7,7 +7,7 @@ public class VariableScope {
         //prompt for two numbers
         System.out.println("enter a number");
         int num1 = s.nextInt();
-        System.out.println("enter anoter number");
+        System.out.println("enter another number");
         int num2 = s.nextInt();
 
         //prompt for a word
