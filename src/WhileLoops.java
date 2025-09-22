@@ -104,7 +104,7 @@ public class WhileLoops {
                 num = s.nextInt();
             }
             else {
-                break; //get out of the
+                break; //get out of the loop
             }
         }
     }
