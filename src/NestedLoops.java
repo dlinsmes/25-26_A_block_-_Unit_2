@@ -109,7 +109,12 @@ public class NestedLoops {
 
         //goal: get a resulting shape the same as the previous
         //but with an incrementing outer loop
-
+        for (int i = 0; i < 10; i++) {
+            for (int j = 10; j > i; j--) {
+                System.out.print("x");
+            }
+            System.out.println();
+        }
 
     }
 
